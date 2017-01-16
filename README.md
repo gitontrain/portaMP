@@ -1,2 +1,8 @@
 # portaMP
-lab_git_my_first_repo
+lab_git_my_first_rep
+
+
+
+
+
+FUS-RO-DAH
